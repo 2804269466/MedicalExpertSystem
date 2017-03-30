@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>C:/Users/嘉润/Desktop/expert.png</file>
+        <file>C:/Users/嘉润/Desktop/user.png</file>
+    </qresource>
+</RCC>
